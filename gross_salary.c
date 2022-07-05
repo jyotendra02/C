@@ -8,7 +8,5 @@ int main()
     rent = .20 * salary;
     gross_salary = salary - (dearness_allowance + rent);
     printf("Dearness Allowance: %0.2f\nRent allowance: %0.2f\nGross salary: %0.2f\n", dearness_allowance,rent,gross_salary);
-  
-
-
+        
 }
